@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	font-family: 'Manrope';
+}
+
+ninja-keys {
+	--ninja-modal-background: #0a0e11;
+	--ninja-footer-background: #131a1f;
+	--ninja-secondary-background-color: #172128;
+	--ninja-accent-color: #52acff;
+}
