@@ -43,7 +43,7 @@ export default {
 			animation: {
 				rotate180: 'rotate180 0.2s ease-in',
 				rotate180o: 'rotate180o 0.2s ease-in',
-				unblur: 'unblur 0.4s ease-in-out',
+				unblur: 'unblur 0.2s ease-in-out',
 				fadeDown: 'fadeDown 0.6s ease-in-out',
 				fadeUp: 'fadeUp 0.6s ease-in-out',
 				fadeRight: 'fadeRight 0.6s ease-in-out',
