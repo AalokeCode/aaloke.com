@@ -1,5 +1,6 @@
 <script>
 	import { browser } from '$app/environment';
+	import { page } from '$app/stores';
 	let navisOpen = true;
 
 	//implementing dark and light mode switch
@@ -21,6 +22,19 @@
 			darkMode = false;
 		}
 	}
+
+	export async function handlePageChange() {
+		let path = $page.url.pathname;
+		console.log(path);
+		about = path === '/about';
+		projects = path === '/projects';
+		contact = path === '/contact';
+		blog = path === '/blog';
+	}
+
+	const unsubscribe = page.subscribe(() => {
+		handlePageChange();
+	});
 </script>
 
 <div class="flex justify-center absolute bottom-5 w-screen">
