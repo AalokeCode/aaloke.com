@@ -26,7 +26,7 @@
 	</div>
 	<div class="grid grid-cols-3">
 		<div
-			class="col-span-1 bg-jungle-darkgreen mt-10 m-5 rounded-2xl animate-fadeUp relative hover:scale-105 hover:border border-blue-jeans hover:shadow shadow transition ease-in-out"
+			class="col-span-1 bg-jungle-darkgreen mt-10 m-5 rounded-2xl animate-zoomOut relative hover:scale-105 hover:border border-blue-jeans hover:shadow shadow transition ease-in-out"
 		>
 			<div
 				class="absolute bottom-0 py-3 border border-jungle-darkgreen px-5 flex justify-between text-white rounded-b-2xl w-full bg-eerie-black"
@@ -38,7 +38,7 @@
 		</div>
 		<div class="col-span-1">
 			<div
-				class="bg-jungle-darkgreen rounded-2xl animate-fadeDown relative hover:scale-105 hover:border border-blue-jeans hover:shadow shadow transition ease-in-out"
+				class="bg-jungle-darkgreen rounded-2xl animate-zoomOut relative hover:scale-105 hover:border border-blue-jeans hover:shadow shadow transition ease-in-out"
 			>
 				<div
 					class="absolute bottom-0 py-3 border border-jungle-darkgreen px-5 flex justify-between text-white rounded-b-2xl w-full bg-eerie-black"
@@ -50,7 +50,7 @@
 			</div>
 		</div>
 		<div
-			class="col-span-1 bg-jungle-darkgreen mt-10 m-5 rounded-2xl animate-fadeUp relative hover:scale-105 hover:border border-blue-jeans hover:shadow shadow transition ease-in-out"
+			class="col-span-1 bg-jungle-darkgreen mt-10 m-5 rounded-2xl animate-zoomOut relative hover:scale-105 hover:border border-blue-jeans hover:shadow shadow transition ease-in-out"
 		>
 			<div
 				class="absolute bottom-0 py-3 border border-jungle-darkgreen px-5 flex justify-between text-white rounded-b-2xl w-full bg-eerie-black"

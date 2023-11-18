@@ -38,6 +38,10 @@ export default {
 				fadeLeft: {
 					'0%': { opacity: 0, transform: 'translateX(20px)' },
 					'100%': { opacity: 100, transform: 'translateX(0)' }
+				},
+				zoomOut: {
+					'0%': { opacity: 0, transform: 'scale(110%)' },
+					'100%': { opacity: 100, transform: 'none' }
 				}
 			},
 			animation: {
@@ -47,7 +51,8 @@ export default {
 				fadeDown: 'fadeDown 0.6s ease-in-out',
 				fadeUp: 'fadeUp 0.6s ease-in-out',
 				fadeRight: 'fadeRight 0.6s ease-in-out',
-				fadeLeft: 'fadeLeft 0.6s ease-in-out'
+				fadeLeft: 'fadeLeft 0.6s ease-in-out',
+				zoomOut: 'zoomOut 0.6s ease-in-out'
 			}
 		}
 	},

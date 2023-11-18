@@ -3,11 +3,17 @@
 	import Navbar from '../lib/navbar.svelte';
 	import Header from '../lib/header.svelte';
 
-	import { onMount } from 'svelte';
+	import { onMount, afterUpdate } from 'svelte';
+	let waveAnimation;
 
 	onMount(() => {
-		const waveAnimation = document.getElementById('waveAnimation');
 		waveAnimation.beginElement();
+	});
+
+	afterUpdate(() => {
+		if (waveAnimation) {
+			waveAnimation.beginElement();
+		}
 	});
 </script>
 
