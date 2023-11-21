@@ -4,7 +4,6 @@
 	import Header from '../lib/header.svelte';
 
 	import { onMount, afterUpdate } from 'svelte';
-	let waveAnimation;
 
 	onMount(() => {
 		waveAnimation.beginElement();
