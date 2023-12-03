@@ -1,7 +1,7 @@
 # My Personal Portfolio
 
 Here is the source code of my personal portfolio. This website is specifically crafted and designed
-to fit my needs and my design style. I upload Blogs, Projects and some newsletters soon.
+to fit my needs and my design style. I will soon upload Blogs, Projects and some newsletters soon.
 
 Here is the live deployment of my personal portfolio
 [Live Preview](https://aaloke.com)
