@@ -6,15 +6,13 @@ to fit my needs and my design style. I upload Blogs, Projects and some newslette
 Here is the live deployment of my personal portfolio
 [Live Preview](https://aaloke.com)
 
-## Requirements
+## Tech Stack Used
 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/nodejs-%231572B6.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-![NinjaKeys](https://img.shields.io/badge/NinjaKeys-%0000.svg?style=for-the-badge)
-![MdSveX](https://img.shields.io/badge/MdSveX-%0000.svg?style=for-the-badge)
 
 ## Installation
 
